@@ -70,6 +70,12 @@ A column chart showing call distribution among:
 
 ---
 
+## 🖼️ Dashboard Preview
+![CallCenter_Data Analysis.png](CallCenter_Data%20Analysis.png)
+
+
+---
+
 ## 🚀 How to Use
 1. Open the Tableau workbook (`.twbx`) in **Tableau Desktop or Tableau Public**.  
 2. Explore interactive dashboard elements (filters, tooltips, and drill-downs).  
